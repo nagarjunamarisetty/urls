@@ -1,0 +1,26 @@
+https://eu-west-1.console.aws.amazon.com/codecommit/home?region=eu-west-1#/repository/gce-chef/browse/terraform/--/
+
+https://aws-gce-dataplatform-prod.signin.aws.amazon.com/console
+
+https://aws-gce-dataplatform-dev.signin.aws.amazon.com/console
+
+https://aws-gce-dataplatform-newstage.signin.aws.amazon.com/console (devops acc)
+
+https://pulse.affiniongroup.com/itg/web/knta/global/Logon.jsp
+
+
+https://www.cloudera.com/documentation/enterprise/latest/topics/installation_installation.html
+
+
+https://affiniongroup.slack.com/messages/D7SC859BP/convo/D80QRHS3C-1511416482.000010/ (slack)
+
+
+https://we-like-it.atlassian.net/wiki/spaces/NGBP/pages/115755898/PCI+Documentation
+
+AI - 17-347 GC
+
+https://www.lucidchart.com/documents?mkt_tok=eyJpIjoiTXpsalltSTNNRGRqTmpZdyIsInQiOiJnMXJRbldtRVlkSEgxeWh3VjZZWmlrU2wzbFhSVVJlb2kyaFdXSkNXMnd3YXFZdTNRR2gyQ0NDVXhtM0dDXC9KNkxkTkdQNWlIaWVjNktPMmZia1V0dnFFaTI4SXBPdE5VOHRjamhHbzhsQWh3U1VWdEo4aHQzQnZ2QTAyNzVDcDgifQ%3D%3D#docs?folder_id=home&browser=icon&sort=saved-desc (lucid chart )
+
+https://we-like-it.atlassian.net/secure/RapidBoard.jspa?rapidView=417&projectKey=NGBP&view=detail&selectedIssue=NGBP-277&quickFilter=2368
+
+
